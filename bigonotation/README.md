@@ -30,4 +30,8 @@ Es la misma nomenclatura de Big O Notation, pero cuando se refiere a espacio en 
 - Pueden ser estáticos o dinámicos, dependiendo del lenguaje.
 - Es genial cuando sabes de antemano el tamaño que va a tener la lista.
 - Runtime Complexities cuando se busca por indices es eficiente con O(1), pero cuando se busca por valor, se inserta o se borra, entonces pasa a una funcion lineal O(n).
+- Ejemplos:
+  - Python
+    - arrays.py
+    - lists.py (esta por defecto, son los "arreglos" del lenguaje)
 
