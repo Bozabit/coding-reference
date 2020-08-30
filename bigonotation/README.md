@@ -26,9 +26,8 @@ Es la misma nomenclatura de Big O Notation, pero cuando se refiere a espacio en 
 
 ## Arrays
 ### Overview
-Es una lista de elementos. Que son guardados de forma secuencial en la memoria del sistema. Según Big O Notation tienen un peso de 0(1)
-
-Si uno necesita una lista de elementos y accesarlos por el index de cada uno de elolos, son sin duda el mejor esquema de datos.
-
-El mayor problema que tienen es que son de tamño fijo
+- Es la primera forma de estructuras de datos y muy usadas en muchos lenguajes.
+- Pueden ser estáticos o dinámicos, dependiendo del lenguaje.
+- Es genial cuando sabes de antemano el tamaño que va a tener la lista.
+- Runtime Complexities cuando se busca por indices es eficiente con O(1), pero cuando se busca por valor, se inserta o se borra, entonces pasa a una funcion lineal O(n).
 
