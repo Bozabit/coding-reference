@@ -22,10 +22,9 @@ El peor tipo de funciones, pues decribe una curva exponecial que aumenta el dobl
 ### Space Complexity vs Runtime Complexity (Time)
 Es la misma nomenclatura de Big O Notation, pero cuando se refiere a espacio en memoria. Siempre se enfoca en calcular que tanto espacio debemos usar para esa función. Por ejemplo si tengo un array X y entonces como primer paso de la funcion lo copio para hacer actividades, tengo una funcion de 0(n) space, pues estaria siempre duplicando el espacio que ocupa el input
 
-# Estructura de Datos
 
+# Estructura de Datos
 ## Arrays
-### Overview
 - Es la primera forma de estructuras de datos y muy usadas en muchos lenguajes.
 - Pueden ser estáticos o dinámicos, dependiendo del lenguaje.
 - Es genial cuando sabes de antemano el tamaño que va a tener la lista.
@@ -35,3 +34,4 @@ Es la misma nomenclatura de Big O Notation, pero cuando se refiere a espacio en 
     - arrays.py
     - lists.py (esta por defecto, son los "arreglos" del lenguaje)
 
+## Linked Lists

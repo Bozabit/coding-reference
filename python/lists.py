@@ -1,10 +1,11 @@
 ''' Lists: 
-Son la estructura de datos fundamental, 
-de casi todo lenguaje, en algunos es conocido como arrays, 
-pero en python se le llaman lists, 
-los arrays son una clase que debe ser importada 
-para cuando haya problemas de performance con los lists
+The list is the most versatile datatype available in Python, 
+which can be written as a list of comma-separated values (items) between square brackets. 
+Important thing about a list is that the items in a list need not be of the same type.
+Lists arte Dynamic arrays
 '''
+
+print("The list is the most versatile datatype available in Python, which can be written as a list of comma-separated values (items) between square brackets. Important thing about a list is that the items in a list need not be of the same type.")
 
 ''' List creation '''
 letters = ["a", "b", "c", "d"]
